@@ -1,0 +1,4 @@
+# requirements.txt
+PyQt5
+Pillow
+pytesseract
